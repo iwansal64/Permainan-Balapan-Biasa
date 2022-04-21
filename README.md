@@ -1,3 +1,3 @@
 # Permainan-Biasa
-Game Python tanpa bantuan engine apapun
+Game Python tanpa bantuan engine apapun cuy
 
